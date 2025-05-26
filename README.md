@@ -149,7 +149,7 @@ This project goes over how to add a user to a security or distribution group in 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/M7WBzuJ5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/M7WBzuJ.png" height="100%" width="100%" /></td>
     <td><img src="https://imgur.com/DcMSflD.png" height="100%" width="100%" /></td>
   </tr>
 </table>
