@@ -48,7 +48,8 @@ This project goes over how to add a user to a security or distribution group in 
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Find: The Security  (OR)  Distribution Group you want to add the user to: https://github.com/RashadHagen/ADUC-Find-Computer-User-Printer-Shared-Folder-Organizational-Unit-Common-Queries</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Find: The Security  (OR)  Distribution Group you want to add the user to. 
+    <a href="https://github.com/RashadHagen/ADUC-Find-Computer-User-Printer-Shared-Folder-Organizational-Unit-Common-Queries" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;"> How To Find</b></span>  
   <br/>
   <img src="https://imgur.com/xdqv5yn.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
