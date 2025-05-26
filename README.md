@@ -56,7 +56,7 @@ This project goes over how to add a user to a security or distribution group in 
 
 
   <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The Find result  (OR) Right-Click the group name within its organizational unit or folder. Click: Properties.</b></span>:  
 <br/>
 
 <table>
@@ -70,41 +70,7 @@ This project goes over how to add a user to a security or distribution group in 
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
-<br/>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/vmzKdBz.png" height="50%" width="50%" /></td>
-  </tr>
-</table>
-
-<br /><br />
-
-
-<div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
-<br/>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
-  </tr>
-</table>
-
-<br /><br />
-
-
-<div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Members tab</b></span>:  
 <br/>
 
 <table>
@@ -124,7 +90,61 @@ This project goes over how to add a user to a security or distribution group in 
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Add…</b></span>:  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type in the Enter the object names to select box (bottom): The user’s name. Click: Check Names.</b></span>:  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/vmzKdBz.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: OK</b></span>:  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/vmzKdBz.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To double-check the correct user is part of all Security  (AND/OR)  Organizational Units: Find the user. Right-Click their name. Click: Properties. Click: Member Of tab.</b></span>:  
 <br/>
 
 <table>
