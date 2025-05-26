@@ -39,8 +39,8 @@ This project goes over how to add a user to a security or distribution group in 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -81,7 +81,7 @@ This project goes over how to add a user to a security or distribution group in 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/vmzKdBz.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/vmzKdBz.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -115,7 +115,7 @@ This project goes over how to add a user to a security or distribution group in 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/vmzKdBz.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/vmzKdBz.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
