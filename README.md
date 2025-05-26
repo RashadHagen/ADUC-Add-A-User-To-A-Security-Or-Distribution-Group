@@ -47,4 +47,97 @@ This project goes over how to add a user to a security or distribution group in 
 <br /><br />
 
 
-<div
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Find: The Security  (OR)  Distribution Group you want to add the user to: https://github.com/RashadHagen/ADUC-Find-Computer-User-Printer-Shared-Folder-Organizational-Unit-Common-Queries</b></span>:  
+  <br/>
+  <img src="https://imgur.com/xdqv5yn.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+  <div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/vmzKdBz.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/vmzKdBz.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/vmzKdBz.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/eLy0pKN.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
