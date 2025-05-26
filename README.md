@@ -51,7 +51,7 @@ This project goes over how to add a user to a security or distribution group in 
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Find: The Security  (OR)  Distribution Group you want to add the user to. 
     <a href="https://github.com/RashadHagen/ADUC-Find-Computer-User-Printer-Shared-Folder-Organizational-Unit-Common-Queries" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;"> How To Find</b></span>  
   <br/>
-  <img src="https://imgur.com/xdqv5yn.png" height="50%" width="50%"/>  
+  <img src="https://imgur.com/weAIRRS.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
 
@@ -61,8 +61,8 @@ This project goes over how to add a user to a security or distribution group in 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/RtenXL1.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/w77NnUn.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -75,14 +75,14 @@ This project goes over how to add a user to a security or distribution group in 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/MPzu4yq.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/QTgQ623.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/vmzKdBz.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/kw4bQDE.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -95,8 +95,8 @@ This project goes over how to add a user to a security or distribution group in 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/UhaWdze.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/xMxZrXW.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -109,14 +109,14 @@ This project goes over how to add a user to a security or distribution group in 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/pdtEZmC.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/fXNLJSQ.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/vmzKdBz.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/r1gFmOq.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -129,14 +129,14 @@ This project goes over how to add a user to a security or distribution group in 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/x1SHw1r.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/OhZlpLk.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/vmzKdBz.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/YW1botb.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -149,15 +149,15 @@ This project goes over how to add a user to a security or distribution group in 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/oe2qKP5.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/UvEKQRZ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/M7WBzuJ5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/DcMSflD.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/vmzKdBz.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/eLy0pKN.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/M7WBzuJ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/V5fh4x6.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
