@@ -70,7 +70,7 @@ This project goes over how to add a user to a security or distribution group in 
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Members tab</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Members tab.</b></span>  
 <br/>
 
 <table>
@@ -124,7 +124,7 @@ This project goes over how to add a user to a security or distribution group in 
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: OK</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: OK.</b></span>  
 <br/>
 
 <table>
